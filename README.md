@@ -1,16 +1,14 @@
 # About Me 👋
 
-
-
 ![gopher dancing](./dancing-gopher.gif)
 
-
-# My Skill
+# My Activity
 
 [![HaoWei's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaoweiChang&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 # My Learn
 ![LeetCode Stats](https://leetcode.card.workers.dev/Haowei_Chang?theme=unicorn&font=source_code_pro&extension=null)
+
 
 <!--
 **HaoWeiChang/HaoWeiChang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
