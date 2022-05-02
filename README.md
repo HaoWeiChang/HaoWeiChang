@@ -3,7 +3,8 @@
 ![gopher dancing](./dancing-gopher.gif)
 ## Language
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/go.svg" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/go.svg" style="--color_fill: #00ADD8" />
+
 
 <br />
 <br />
